@@ -1,4 +1,4 @@
-Hi there I am Kalpesh.
+Hi there I am **Kalpesh Mahajan**.
 I am Senior software engineer with almost 9 years of experience in diversified domains like payments & Cards and
 Insurance industry. Have enhanced skills sets with certification in Data Science (AI/ML/NLP). Also has one
 approved patent under filling which demonstrates research capabilities. Well versed with business acumen &
